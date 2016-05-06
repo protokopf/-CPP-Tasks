@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ПростоЗадачи", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Олимпиадные задачи", "Олимпиадные задачи\Олимпиадные задачи.vcxproj", "{9FB4C160-489E-472C-BA17-47C6663EB79F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "leetcode.com", "leetcode.com\leetcode.com.vcxproj", "{CA75D498-15C2-447C-9E1A-5FB7B5E2CB9A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -27,6 +29,10 @@ Global
 		{9FB4C160-489E-472C-BA17-47C6663EB79F}.Debug|Win32.Build.0 = Debug|Win32
 		{9FB4C160-489E-472C-BA17-47C6663EB79F}.Release|Win32.ActiveCfg = Release|Win32
 		{9FB4C160-489E-472C-BA17-47C6663EB79F}.Release|Win32.Build.0 = Release|Win32
+		{CA75D498-15C2-447C-9E1A-5FB7B5E2CB9A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CA75D498-15C2-447C-9E1A-5FB7B5E2CB9A}.Debug|Win32.Build.0 = Debug|Win32
+		{CA75D498-15C2-447C-9E1A-5FB7B5E2CB9A}.Release|Win32.ActiveCfg = Release|Win32
+		{CA75D498-15C2-447C-9E1A-5FB7B5E2CB9A}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
