@@ -1,21 +1,18 @@
-﻿Build started 06.05.2016 18:44:01.
+﻿Build started 09.05.2016 22:44:39.
      1>Project "E:\Программирование\C-_Tasks\leetcode.com\leetcode.com.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt 120.Triangle.cpp Source.cpp
-         120.Triangle.cpp
-     1>e:\программирование\c-_tasks\leetcode.com\120.triangle.h(25): warning C4018: '<' : signed/unsigned mismatch
-         Generating Code...
-         Compiling...
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
          Source.cpp
-     1>e:\программирование\c-_tasks\leetcode.com\120.triangle.h(25): warning C4018: '<' : signed/unsigned mismatch
-         Generating Code...
+     1>e:\программирование\c-_tasks\leetcode.com\335. self crossing .h(39): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\программирование\c-_tasks\leetcode.com\335. self crossing .h(47): warning C4018: '<=' : signed/unsigned mismatch
        Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Программирование\C-_Tasks\Debug\leetcode.com.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Программирование\C-_Tasks\Debug\leetcode.com.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Программирование\C-_Tasks\Debug\leetcode.com.lib" /MACHINE:X86 Debug\120.Triangle.obj
-         "Debug\216. Combination Sum III .obj"
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Программирование\C-_Tasks\Debug\leetcode.com.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Программирование\C-_Tasks\Debug\leetcode.com.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Программирование\C-_Tasks\Debug\leetcode.com.lib" /MACHINE:X86 "Debug\216. Combination Sum III .obj"
+         "Debug\224. Basic Calculator.obj"
          Debug\Source.obj
+         "Debug\8. String to Integer (atoi) .obj"
          leetcode.com.vcxproj -> E:\Программирование\C-_Tasks\Debug\leetcode.com.exe
      1>Done Building Project "E:\Программирование\C-_Tasks\leetcode.com\leetcode.com.vcxproj" (Build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:01.03
+Time Elapsed 00:00:01.04

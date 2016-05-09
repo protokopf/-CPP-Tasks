@@ -21,6 +21,12 @@
     <ClCompile Include="216. Combination Sum III .cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="224. Basic Calculator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="8. String to Integer %28atoi%29 .cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="216. Combination Sum III .h">
@@ -30,6 +36,24 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="260. Single Number III .h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="224. Basic Calculator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="8. String to Integer %28atoi%29 .h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="136. Single Number.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="73. Set Matrix Zeroes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="335. Self Crossing .h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="(Medium) 133. Clone Graph.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

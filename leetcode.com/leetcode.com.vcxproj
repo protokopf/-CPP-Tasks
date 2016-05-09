@@ -79,12 +79,20 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="216. Combination Sum III .cpp" />
+    <ClCompile Include="224. Basic Calculator.cpp" />
     <ClCompile Include="Source.cpp" />
+    <ClCompile Include="8. String to Integer %28atoi%29 .cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="(Medium) 133. Clone Graph.h" />
     <ClInclude Include="120.Triangle.h" />
+    <ClInclude Include="136. Single Number.h" />
     <ClInclude Include="216. Combination Sum III .h" />
+    <ClInclude Include="224. Basic Calculator.h" />
     <ClInclude Include="260. Single Number III .h" />
+    <ClInclude Include="335. Self Crossing .h" />
+    <ClInclude Include="73. Set Matrix Zeroes.h" />
+    <ClInclude Include="8. String to Integer %28atoi%29 .h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
