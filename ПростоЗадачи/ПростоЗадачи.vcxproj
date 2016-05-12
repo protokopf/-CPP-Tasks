@@ -78,10 +78,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="FunWithGraphs.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="VerifyClass.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="BitOperations.h" />
     <ClInclude Include="VerifyClass.h" />
     <ClInclude Include="VerifyMethod.h" />
   </ItemGroup>

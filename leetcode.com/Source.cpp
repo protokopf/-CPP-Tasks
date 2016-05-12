@@ -1,10 +1,14 @@
-#include "335. Self Crossing .h"
-
+#define _CRT_SECURE_NO_WARNINGS
 
 using namespace std;
 
+
+
+
 int main()
 {
-	system("pause");
+
 	return 0;
 }
+
+

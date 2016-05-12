@@ -21,12 +21,18 @@
     <ClCompile Include="VerifyClass.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="FunWithGraphs.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="VerifyMethod.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="VerifyClass.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BitOperations.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
