@@ -1,18 +1,18 @@
 #include <iostream>
-#include "BitOperations.h"
+#include "sort algorythms.h"
 
 using namespace std;
 
 int main()
 {
-	int value = 0;
-	int bit = 0;
+	int arr[] = { 1, 5, 6, 7, 9, 2, 3, 10, 4, 23,15};
 
-	//while (true)
-	{
-		cout << absolute(-12)<< endl;
+	//quickSort(arr,0, 10);
+	v2QuickSort(arr, 0,10);
 
-	}
+	for (int i = 0; i < 11; ++i)
+		cout << arr[i] << " ";
+	cout << endl;
 
 	return 0;
 }

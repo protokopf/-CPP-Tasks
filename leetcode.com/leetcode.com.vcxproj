@@ -84,8 +84,11 @@
     <ClCompile Include="8. String to Integer %28atoi%29 .cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="%28Hard%29 282. Expression Add Operators%28-%29.h" />
+    <ClInclude Include="%28Easy%29 263. Ugly Number%28-%29.h" />
     <ClInclude Include="(Medium) 133. Clone Graph.h" />
     <ClInclude Include="(Medium) 347. Top K Frequent Elements.h" />
+    <ClInclude Include="%28Medium%29211. Add and Search Word - Data structure design%28-%29.h" />
     <ClInclude Include="120.Triangle.h" />
     <ClInclude Include="136. Single Number.h" />
     <ClInclude Include="216. Combination Sum III .h" />

@@ -84,6 +84,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="BitOperations.h" />
+    <ClInclude Include="sort algorythms.h" />
     <ClInclude Include="VerifyClass.h" />
     <ClInclude Include="VerifyMethod.h" />
   </ItemGroup>
