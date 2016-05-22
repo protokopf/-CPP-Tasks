@@ -52,5 +52,25 @@ void bitSwap(int &a, int &b)
 }
 void bitSwapV2(int &a, int &b)
 {
+	a ^= b ^= a ^= b;  // операции выполняются слева направо
+}
 
+int negative(int value)
+{
+	return (~value) + 1;
+}
+
+bool isOdd(int value)
+{
+	return value & 1;
+}
+int mod(int value, int m) // делит по модулю только на числа, являющиеся степенью двойки
+{
+	return value & (m - 1);
+}
+
+int absolute(int value)
+{
+
+	return (value ^ (value >> 31)) - (value >> 31);
 }

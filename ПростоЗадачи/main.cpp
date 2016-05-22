@@ -8,11 +8,9 @@ int main()
 	int value = 0;
 	int bit = 0;
 
-	while (true)
+	//while (true)
 	{
-		cout << "Enter value: ";
-		cin >> value;
-		cout << isValueDegreeOfTwo(value) << endl;
+		cout << absolute(-12)<< endl;
 
 	}
 

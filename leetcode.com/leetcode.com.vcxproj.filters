@@ -56,5 +56,8 @@
     <ClInclude Include="(Medium) 133. Clone Graph.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="(Medium) 347. Top K Frequent Elements.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
